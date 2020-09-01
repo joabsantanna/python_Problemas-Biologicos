@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <em>Por Joab Santana. Mais informações <a href="https://github.com/joabsantanna/python_Problemas-Biologicos/tree/master/notebooks>joabsantanna">joabsantanna</a>.</em>
+    <em>Por Joab Santana. Mais informações <a href="https://github.com/joabsantanna/python_Problemas-Biologicos/tree/master/notebooks">joabsantanna</a>.</em>
 <h3 align="center"><img src="https://img.shields.io/static/v1?label=build&message=passing&color=sucess&style=plastic&logo=badge1">
 <a href="https://colab.research.google.com/drive/1rkH1EpBWrSLw5_eNiBlZ8XEfo3gqt68S#scrollTo=cG4W8Q3i0a6q">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></h3>
